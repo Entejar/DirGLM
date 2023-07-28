@@ -9,6 +9,7 @@ require(tidyverse)
 require(ggpubr)
 #.............................Data Generation...................................
 ## trying this -- Peter
+## here is more from Paul
 set.seed(442)
 n <- 250; p <- 2
 X <- matrix(c(rep(1, n), rnorm(n, mean = 0, sd = 1)), byrow = F, 
