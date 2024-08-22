@@ -1,6 +1,6 @@
 # Dir - SPGLM
 
-Bayesian version of SPGLM.
+Bayesian version of finite sample SPGLM.
 
 1. Main function: MCMC samples simulator
 2. MCMC functions:  granular functions required in Main function
