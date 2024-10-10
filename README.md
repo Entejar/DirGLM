@@ -1,8 +1,8 @@
-# DirGLM
+# readme for Dir-GLM codes
 
-Bayesian version of finite sample SPGLM.
+dir-glm together with mcmc_helpers implements the Dir-GLM model.
 
-1. Main function: MCMC samples simulator
-2. MCMC functions:  granular functions required in Main function
-3. Dir - SPGLM - Simulation: code for simulation study
-4. Dir - SPGLM - AHEAD: code for AHEAD data study
+1. dir-glm: MCMC samples simulator
+2. mcmc_helpers:  helpers and mcmc functions (sourced in dir-glm)
+3. simulation_example: code for a simulation example
+
