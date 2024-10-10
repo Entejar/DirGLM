@@ -1,4 +1,4 @@
-# Dir - SPGLM
+# DirGLM
 
 Bayesian version of finite sample SPGLM.
 
