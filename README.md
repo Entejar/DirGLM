@@ -1,5 +1,3 @@
-# readme for Dir-GLM codes
-
 dir-glm together with mcmc_helpers implements the Dir-GLM model.
 
 1. dir-glm: MCMC samples simulator
